@@ -1,4 +1,9 @@
 Project-Thread
 ==============
 
-This bulletin board is a thread float type bulletin board. This bulletin board is building-mounted bulletin board easily.
+이 보드는 아직 시험판이므로 주기적으로 버그를 잡아줘야 사용가능합니다.
+제작자 : 이서현 (myskys2@hanmail.net)
+개발 버전 : Alpha 0.1
+
+본 보드의 취약점 해킹을 금하며, 제작자에게 버그를 이메일로 휴대폰번호와 함께 전송해주시면, 기프티콘을 드립니다.
+물론 테스트 해본 결과여야해요~
